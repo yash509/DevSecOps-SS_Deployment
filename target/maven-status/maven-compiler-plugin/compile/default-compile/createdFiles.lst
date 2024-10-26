@@ -1,0 +1,5 @@
+com/notthebest/demo/service/PersonService.class
+com/notthebest/demo/controller/PersonController.class
+com/notthebest/demo/repository/PersonRepo.class
+com/notthebest/demo/model/Person.class
+com/notthebest/demo/SecretsantaApplication.class
